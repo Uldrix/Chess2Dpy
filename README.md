@@ -35,4 +35,5 @@ Disclaimer
 - No effort has been put into the UI its on purposet :-)
 - Code may contain bugs, they will not be patched.
 - No effort was put into writting organized code, you can still understand the code, if not then move open a restaurant and become a cooker ;-)
+- AI needs to be improved.
 - Enjoy!
